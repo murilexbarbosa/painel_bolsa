@@ -1,1 +1,0 @@
-# painel_bolsa
